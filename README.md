@@ -1,14 +1,14 @@
 <div align="center">
 
-# ✨ Holii, soy Asly García ✨
+ ✨ Holii, soy Asly García ✨
 
-💻 Estudiante de Desarrollo de Software  
-🌸 Apasionada por el diseño, la tecnología y la programación  
-🚀 Siempre aprendiendo nuevas herramientas y tecnologías  
+-  Estudiante de Desarrollo de Software  
+- Apasionada por el diseño, la tecnología y la programación  
+- Siempre aprendiendo nuevas herramientas y tecnologías  
 
 ---
 
-# ❤️ Sobre Mí
+#  Sobre Mí
 
 Soy una estudiante interesada en el mundo del desarrollo de software y las bases de datos.  
 Me gusta aprender nuevas tecnologías, crear proyectos creativos y mejorar mis habilidades en programación y diseño web.  
