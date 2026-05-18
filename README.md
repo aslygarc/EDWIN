@@ -61,7 +61,7 @@ MySQL
 </td>
 
 <td align="center">
-<a href="https://github.com/" target="_blank">
+<a href="https://github.com/TUUSUARIO" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" /><br>
 GitHub
 </a>
@@ -147,13 +147,16 @@ Herramienta de control de versiones utilizada para administrar cambios en proyec
 </a>
 
 </p>
+
+---
+
 # 💖 Formulario de Contacto
 
 <p align="center">
 
-<a href="https://forms.gle/TU-LINK-AQUI" target="_blank">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdSHKZDvZ16otLNrYaJEqZXucQCOBCt_-OTXYHnmGxuRMnmlA/viewform?usp=header" target="_blank">
 
-<img src="https://img.shields.io/badge/https://docs.google.com/forms/d/e/1FAIpQLSdSHKZDvZ16otLNrYaJEqZXucQCOBCt_-OTXYHnmGxuRMnmlA/viewform?usp=header-FF69B4?style=for-the-badge&logo=googleforms&logoColor=white"/>
+<img src="https://img.shields.io/badge/💌_Abrir_Formulario-FF69B4?style=for-the-badge&logo=googleforms&logoColor=white"/>
 
 </a>
 
@@ -162,6 +165,7 @@ Herramienta de control de versiones utilizada para administrar cambios en proyec
 <p align="center">
 💌 Presiona el botón para abrir el formulario
 </p>
+
 ---
 
 # ✨ Objetivos
