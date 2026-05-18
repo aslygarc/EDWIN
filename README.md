@@ -153,7 +153,7 @@ Herramienta de control de versiones utilizada para administrar cambios en proyec
 
 <a href="https://forms.gle/TU-LINK-AQUI" target="_blank">
 
-<img src="https://img.shields.io/badge/✨_Haz_Click_Aquí_✨-FF69B4?style=for-the-badge&logo=googleforms&logoColor=white"/>
+<img src="https://img.shields.io/badge/https://docs.google.com/forms/d/e/1FAIpQLSdSHKZDvZ16otLNrYaJEqZXucQCOBCt_-OTXYHnmGxuRMnmlA/viewform?usp=header-FF69B4?style=for-the-badge&logo=googleforms&logoColor=white"/>
 
 </a>
 
